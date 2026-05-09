@@ -3,7 +3,7 @@
 **Report Doc Name:** GNR_640_MiniProject.pdf
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ERA5_data_processing.ipynb - The downloading and preprocessing of data. 
-**STEPS:** Data Downloading > Clipping to USA shapefile > Gridding in 2 degree
+\n**STEPS:** Data Downloading > Clipping to USA shapefile > Gridding in 2 degree
 
 interpolation_models.ipynb - The main code for interpolating the given data. 
 Methods used for interpolation: 
@@ -11,7 +11,7 @@ Methods used for interpolation:
 2) Spherical Kriging
 3) Gaussian Kriging
 4) Exponential Kriging
-**STEPS:** Clipping the data using USA shapefile > Converting in 2 degree spatial resolution using same spatial configuration as used for gridding ERA5 data. 
+\n**STEPS:** Clipping the data using USA shapefile > Converting in 2 degree spatial resolution using same spatial configuration as used for gridding ERA5 data. 
 
 Statistical_Assessment.ipynb - Test of central tendency, dispersion and distribution characteristics
 
