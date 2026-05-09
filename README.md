@@ -8,6 +8,7 @@ ERA5_data_processing.ipynb - The downloading and preprocessing of data.
 **STEPS:** Data Downloading > Clipping to USA shapefile > Gridding in 2 degree
 
 interpolation_models.ipynb - The main code for interpolating the given data. 
+
 Methods used for interpolation: 
 1) Linear Kriging
 2) Spherical Kriging
