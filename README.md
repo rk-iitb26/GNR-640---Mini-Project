@@ -1,3 +1,3 @@
 # GNR-640---Mini-Project
-GNR 640 - Geospatial Statistics 
-Mini Project
+**Figshare DOI**: 10.6084/m9.figshare.32228568
+
